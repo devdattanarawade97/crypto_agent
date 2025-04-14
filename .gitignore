@@ -1,0 +1,42 @@
+
+---
+
+### 🧾 `.gitignore`
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs and caches
+*.log
+.cache/
+*.sqlite3
+
+# Python egg metadata
+*.egg-info/
+
+# dotenv environment variables
+.env
+
+# PyCharm
+.idea/
+
+# System files
+Thumbs.db
